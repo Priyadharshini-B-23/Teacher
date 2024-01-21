@@ -4,8 +4,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Migrations.Operations;
 using Microsoft.EntityFrameworkCore.Query.SqlExpressions;
 using Org.BouncyCastle.Security;
-//using System;
-//using System.Text;
+using System;
+using System.Text;
 
 
 namespace mysqlefcore
