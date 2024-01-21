@@ -1,0 +1,5 @@
+﻿D:\TeacherManagement\Program.cs
+D:\TeacherManagement\TeacherDatas.cs
+D:\TeacherManagement\TeacherDB.cs
+D:\TeacherManagement\.editorconfig
+D:\TeacherManagement\appsettings.json
